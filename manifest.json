@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Briefly",
+    "version": "1.0",
+    "description": "Uses the native Summarizer API to summarize the current page.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+}
