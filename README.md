@@ -26,10 +26,10 @@ Before using or developing with this extension, you must enable the experimental
 ### Installation for Developers
 To load and test this extension in your Chrome browser:
 
-1. **Clone the this repository:** Clone this repository into your local machine.
+1. **Clone the repository:** Clone this repository into your local machine.
 
 2. **Open Chrome Extensions Page:**
-In your Chrome browser, type chrome://extensions in the address bar and press Enter.
+In your Chrome browser, type `chrome://extensions` in the address bar and press Enter.
 
 3. **Enable Developer Mode:**
 In the top-right corner of the Extensions page, toggle on the "Developer mode" switch.
@@ -51,7 +51,7 @@ Open any web page that contains a significant amount of text you wish to summari
 Click on the "Briefly" icon in your Chrome toolbar. This will open the extension's popup window.
 
 3. **Generate Summary:**
-Click the "Summarize Page" button within the popup.
+Click the "Summarize" button within the popup.
 
 4. **View Summary:**
 The summary of the web page content will be displayed in the summaryOutput area of the popup. If the AI model needs to download, you might see a brief message indicating that before the summary appears.
